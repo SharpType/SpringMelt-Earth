@@ -2,6 +2,10 @@
 
 Here’s a cool twist on your typical trial font: our first-ever “video font” [Beta release](https://sharptype.co/beta/pre-release-typefaces/), which serves as a preview of our forthcoming flagship typeface, Earth. As a studio, we’ve always been interested in providing different methods for designers to use type, and for our larger audience to engage with it. 
 
+
+![alt text](images/spring-melt.gif "Spring Melt Video")
+
+
 To use this script, you must have [ffmpeg](https://ffmpeg.org/) installed. 
 
 Before using the script please make sure the script is executable on youre command line using `chmod u+x CombineVideos.sh`
