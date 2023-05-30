@@ -4,10 +4,10 @@ read -p "Enter a word: " word
 word=$(echo "$word" | tr '[:lower:]' '[:upper:]')
 word="${word// /}"
 
-while getopts i flag
+while getopts r flag
 do
     case "${flag}" in
-        i) inverse="true";;
+        r) inverse="true";;
     esac
 done
 
